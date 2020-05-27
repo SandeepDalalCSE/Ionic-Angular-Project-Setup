@@ -13,9 +13,8 @@ Ionic apps are created and developed primarily through the Ionic command-line ut
 |1 | Click On : https://ionicframework.com/ . |
 |2 | Click On 'Developers' dropdown tab then 'Installation'. | 
 |3 | Open your Terminal and execute the below command to install the Ionic CLI with npm: |
-```
-npm install -g @ionic/cli
-```
+> npm install -g @ionic/cli
+
 ### Note : Before proceeding, make sure your computer has Node.js installed.
 
 ## Installation | Node.js
