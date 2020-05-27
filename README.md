@@ -10,7 +10,20 @@ Ionic apps are created and developed primarily through the Ionic command-line ut
 
 | No. | Steps |
 |---- | ---------
-|1 | Install the Ionic CLI with npm: |
+|1 | Click On : https://ionicframework.com/ . |
+|2 | Click On 'Developers' dropdown tab then 'Installation'. | 
+|3 | Open your Terminal and execute the below command to install the Ionic CLI with npm: |
 ```
 npm install -g @ionic/cli
 ```
+### Note : Before proceeding, make sure your computer has Node.js installed.
+
+## Installation | Node.js
+
+### Description
+Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.
+
+| No. | Steps |
+|---- | ---------
+|1 | Click On : https://nodejs.org/en/ . |
+|2 | Download for Windows/Linux and install it. |
