@@ -41,4 +41,14 @@ We will create and setup an ionic project with named 'Ionic-Angular-Project-Setu
 |5 | Project name: **`Ionic-Angular-Project-Setup`** |
 |6 | Next you can choose from a couple of templates. Now the list here could change over time. You essentially have the choice between a blank template which is totally empty project with just a starting page, the side menu template where you have a side menu you can slide in from the left and a tabs menu where you have some taps at the bottom. |
 |7 | Starter template: **`blank`** |
-|8 | This will generate a new project with blank template and install all the dependencies like angular and ionic.
+|8 | This will generate a new project with blank template and install all the dependencies like angular and ionic. |
+|9 | Once it is finished, I'm asked if I want to use ionic app flow and connect my app. you can simply answer No here by typing 'n'. |
+|10 | Install the free Ionic Appflow SDK and connect your app? (Y/n): **`n`** |
+|11 | Now you can navigate into this newly 'Ionic-Angular-Project-Setup' or whatever you name that folder. |
+|12 | **`cd Ionic-Angular-Project-Setup/`** |
+|13 | Now run this project using the below command.|
+|14 | **`ionic serve`** |
+|15 | Behind the scenes as you can see here actually use the Angular CLI ie which is installed for you in this project to spin up a development server which in the end runs your application builds your angular application and that's really cool ionic uses the angular CLI behind the scenes so all the cool features offered by the Angular CLI are included in an ionic project as well and you don't need to wait for the Ionic CLI to update to include something you might want to use from the Angular CLI. |
+|16 | By Default, Your project will be served at port 8100. Keep ionic serve running and open your ionic project at any browser and visit the link below |
+|17 | http://localhost:8100/ . |
+|18 | Finally your ionic project is running and has been setup successfully. |
